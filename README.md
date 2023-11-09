@@ -14,4 +14,4 @@ A few resources to get you started if this is your first IoT Project:
 
 If you have any concern, don't hesitate to contact me via:
 - Gmail: huytuduelist@gmail.com
-- [Facebook](facebook.com/pororo1001)
+- [Facebook](https://www.facebook.com/pororo1001)
