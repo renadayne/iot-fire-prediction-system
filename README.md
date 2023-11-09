@@ -4,7 +4,7 @@ File Warning System with IoT Applications.
 
 ## Getting Started
 
-This repo is show you how to get started with Internet Of Thing (IoT).
+This is a project with the purpose of designing and constructing an IoT-based fire alarm system.
 
 A few resources to get you started if this is your first IoT Project:
 
