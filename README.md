@@ -1,10 +1,10 @@
-# IoT Fire Alarm System
+# IoT Fire Prediction System
 
 File Warning System with IoT Applications.
 
 ## Getting Started
 
-This is a project with the purpose of designing and constructing an IoT-based fire alarm system.
+This is a project with the purpose of designing and constructing an IoT-based fire prediction system.
 
 A few resources to get you started if this is your first IoT Project:
 
